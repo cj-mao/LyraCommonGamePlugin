@@ -1,0 +1,2 @@
+# LyraCommonGamePlugin
+移植的lyraCommonGame插件，能直接放到新项目里使用
